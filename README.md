@@ -75,7 +75,7 @@ All IoT device firmwares are open source and customizable.
  --------------
 ## FrontEnd:
 
-Used technology:
+#### Used technology:
  - React
  - Redux
  - Axios
