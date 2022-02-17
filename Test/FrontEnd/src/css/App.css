@@ -1,0 +1,6 @@
+div[class^="OverlayBase-popper-top"] {
+    z-index: 99;
+}
+div[class^="jss"] {
+    z-index: 99;
+}
