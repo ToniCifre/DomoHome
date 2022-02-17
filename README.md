@@ -83,6 +83,3 @@ All IoT device firmwares are open source and customizable.
  - Material ui
  - DX React chart
 
-
-
-
