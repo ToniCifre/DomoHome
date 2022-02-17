@@ -1,6 +1,5 @@
 # DomoHouse
 
-----------------
 
 In recent years, the inclusion of technologies in society has been
 standardised, normalising home automation systems. The development of
@@ -29,7 +28,6 @@ autonomously
 ### [FrontEnd Example](https://home.tonicifre.com/)
 
 
- --------------
 ## Devices IoT:
 
 All IoT device firmwares are open source and customizable.
@@ -46,14 +44,13 @@ All IoT device firmwares are open source and customizable.
  - IoT sensors controlled with: ESP-01, ESP-12F and ESP-32
 
 
- --------------
 ## System Architecture
 #### system communication architecture:
 
 ![System architecture](_images/system_architecture.png "System architecture")
 
 
- --------------
+
 ## BackEnd:
 
 #### Python libraries highlights:
@@ -74,7 +71,6 @@ All IoT device firmwares are open source and customizable.
 ![Python architecture](_images/python_architecture.png "Python architecture")
 
 
- --------------
 ## FrontEnd:
 
 #### Used technology:
