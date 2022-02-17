@@ -1,6 +1,7 @@
 # DomoHouse
 
 ----------------
+
 In recent years, the inclusion of technologies in society has been
 standardised, normalising home automation systems. The development of
 these systems by large private corporations results in exposing and leaving
@@ -22,6 +23,7 @@ Additionally, the resulting system supports more components than the
 required to implement a smart home. Finally, an optimal home automation
 system has been achieved, which maintains control of IoT devices
 autonomously
+
 ----------------
 
 ### [FrontEnd Example](https://home.tonicifre.com/)
