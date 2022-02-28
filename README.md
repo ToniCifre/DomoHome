@@ -46,8 +46,9 @@ All IoT device firmwares are open source and customizable.
 
 
 ## System Architecture
-#### system communication architecture:
 
+###
+#### system communication architecture:
 ![System architecture](_images/system_architecture.png "System architecture")
 
 
@@ -66,7 +67,7 @@ All IoT device firmwares are open source and customizable.
  - Flask-SocketIO
  - Flask-httpauth
 
-
+###
 #### class visibility architecture:
  
 ![Python architecture](_images/python_architecture.png "Python architecture")
@@ -84,3 +85,7 @@ All IoT device firmwares are open source and customizable.
  - Material ui
  - DX React chart
 
+###
+#### class visibility architecture:
+
+![FrontEnd](_images/frontend.png "FrontEnd Web Page")
